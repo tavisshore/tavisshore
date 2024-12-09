@@ -19,8 +19,8 @@
 <table>
   <tr>
     <td valign="center">
-      ![github stats](https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true)
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3)
+      <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true"/ alt="">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3" alt=""/>
     </td>
   </tr>
 </table>
