@@ -1,9 +1,5 @@
 
-<style type="text/css">
-.topalign img {
-  vertical-align: top;
-}
-</style>
+
 
 ### Hi there, I am Tavis Shore 👋 
 
@@ -19,9 +15,17 @@
 
 ---
 
+
+<table>
+  <tr>
+    <td valign="center">
+      ![github stats](https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3)
+    </td>
+  </tr>
+</table>
   
-![github stats](https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
