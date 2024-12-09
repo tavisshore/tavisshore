@@ -11,20 +11,10 @@
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.tavisshore.co.uk/cv/)
 - :bulb: I'm interested in all things data: **Machine Learning, Computer Vision, Robotics, GeoSpatial Data**
 
-
-
 ---
 
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true" alt=""/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3" alt=""/>
-    </td>
-  </tr>
-</table>
-  
+![Rating](https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
