@@ -20,11 +20,9 @@
 
 ---
 
-
----
-
+  
 ![github stats](https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3&hide=javascript,go,html,css,tex,scss,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&langs_count=3)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
