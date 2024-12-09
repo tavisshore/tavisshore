@@ -2,7 +2,7 @@
 
 
 [![GitHub Badge](https://img.shields.io/github/followers/tavisshore?style=social)](https://github.com/tavisshore?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=jHEABmkAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-green)](https://scholar.google.com/citations?user=jHEABmkAAAAJ&hl=en)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tavisshore.tavisshore)
 
 - 📫 How to reach [me](https://www.tavisshore.co.uk)
