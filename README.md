@@ -1,8 +1,4 @@
 
-```{css}
-img {vertical-align: top;}
-```
-
 
 ### Hi there, I am Tavis Shore 👋 
 
