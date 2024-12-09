@@ -1,4 +1,9 @@
 
+<style type="text/css">
+.topalign img {
+  vertical-align: top;
+}
+</style>
 
 ### Hi there, I am Tavis Shore 👋 
 
