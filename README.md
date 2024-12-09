@@ -1,5 +1,10 @@
-### Hi there, I am Tavis Shore 👋 
 
+```{css}
+img {vertical-align: top;}
+```
+
+
+### Hi there, I am Tavis Shore 👋 
 
 [![GitHub Badge](https://img.shields.io/github/followers/tavisshore?style=social)](https://github.com/tavisshore?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-green)](https://scholar.google.com/citations?user=jHEABmkAAAAJ&hl=en)
