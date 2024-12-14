@@ -21,6 +21,8 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
+2. 💪 Opened PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
 <!--END_SECTION:activity-->
 
 
