@@ -14,11 +14,7 @@
 ---
 
 ## Stats📈
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tavisshore&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="tavisshore" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tavisshore&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="tavisshore" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=highcontrast&hide_border=true" alt="tavisshore" />
-</p>
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
