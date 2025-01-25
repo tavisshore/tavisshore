@@ -11,11 +11,6 @@
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.tavisshore.co.uk/cv/)
 - :bulb: I'm interested in all things data: **Machine Learning, Computer Vision, Robotics, GeoSpatial Data**
 
----
-
-## Stats📈
-
-
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
 2. 💪 Opened PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
