@@ -3,7 +3,7 @@
 
 ### Hi there, I am Tavis Shore 👋 
 [![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=jHEABmkAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=jHEABmkAAAAJ&view_op=list_works&sortby=pubdate)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tavisshore.tavisshore)
 
 - 📫 How to reach [me](https://www.tavisshore.co.uk)
