@@ -19,4 +19,28 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
+## PhD Papers To Date 
 
+### 🕺 [PEnG: Pose-Enhanced Geo-Localisation ](https://github.com/tavisshore/PEnG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![arxiv](https://img.shields.io/badge/cs.LG-2411.15742-b31b1b?style=flat&logo=arxiv&logoColor=red)]()
+[![Conference](http://img.shields.io/badge/RA--L-2025-4b44ce.svg)]()
+[![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/peng/)
+[![GitHub](https://img.shields.io/badge/GitHub-PEnG-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/peng)
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
+
+### 🍝 [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://github.com/tavisshore/SpaGBOL)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Paper](http://img.shields.io/badge/ArXiv-2409.15514-B31B1B.svg)](https://arxiv.org/abs/2409.15514)
+[![Conference](http://img.shields.io/badge/WACV-2025-4b44ce.svg)](https://wacv2025.thecvf.com/)
+[![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/spagbol/)
+[![GitHub](https://img.shields.io/badge/GitHub-SpaGBOL-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/spagbol)
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
+
+### 🦜 [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://github.com/tavisshore/BEV-CV)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Paper](http://img.shields.io/badge/ArXiv-2312.15363-B31B1B.svg)](https://arxiv.org/abs/2312.15363)
+[![Conference](http://img.shields.io/badge/IROS-2024-4b44ce.svg)](https://wacv2025.thecvf.com/)
+[![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/bevcv/)
+[![GitHub](https://img.shields.io/badge/GitHub-BEVCV-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/bevcv)
+[![License](https://img.shields.io/badge/license-MIT-blue)]()
