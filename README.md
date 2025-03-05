@@ -2,12 +2,23 @@
 
 
 ### Hi there, I am Tavis Shore 👋 
-[![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=jHEABmkAAAAJ&view_op=list_works&sortby=pubdate)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tavisshore.tavisshore)
+ PhD researcher in artificial intelligence with a strong focus on machine learning 💻, computer vision 📷, and robotics 🤖. I’m a Student in the Centre for Vision, Speech, and Signal Processing <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">(CVSSP)</a> at the University of Surrey advised by <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a> and <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>. My academic pursuits aim to bridge the gap between intelligent systems and their real-world applications, particularly in perception and autonomous vehicles. I bring a unique blend of expertise from working in the defence sector, where I contributed to cutting-edge AI technologies for secure and mission-critical systems.</p>
 
-- 📫 How to reach [me](https://www.tavisshore.co.uk)
-- 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.tavisshore.co.uk/cv/)
+[![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.tavisshore.co.uk/cv/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=jHEABmkAAAAJ&view_op=list_works&sortby=pubdate)
+
+### 🔥 Skills
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=00599C&logo=Docker&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
+
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
