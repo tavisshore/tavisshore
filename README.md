@@ -2,7 +2,7 @@
 
 
 ### Hi there, I am Tavis Shore 👋 
- PhD researcher in artificial intelligence with a strong focus on machine learning 💻, computer vision 📷, and robotics 🤖. I’m a Student at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> at the University of Surrey advised by <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a> and <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>. My academic pursuits aim to bridge the gap between intelligent systems and their real-world applications, particularly in perception and autonomous vehicles. I bring a unique blend of expertise from working in the defence sector, where I contributed to cutting-edge AI technologies for secure and mission-critical systems.</p>
+ PhD researcher in AI with a strong focus on machine learning, computer vision, and robotics. I’m a Student at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> at the University of Surrey advised by <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a> and <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>. My academic pursuits aim to bridge the gap between intelligent systems and their real-world applications, particularly in perception and autonomous vehicles. I bring a unique blend of expertise from working in the defence sector, where I contributed to cutting-edge AI technologies for secure and mission-critical systems.</p>
 
 [![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.tavisshore.co.uk/cv/)
