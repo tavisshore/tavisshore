@@ -18,14 +18,6 @@
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
 
-
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
-2. 💪 Opened PR [#1](https://github.com/tavisshore/tavisshore/pull/1) in [tavisshore/tavisshore](https://github.com/tavisshore/tavisshore)
-<!--END_SECTION:activity-->
-
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
 ## PhD Papers To Date 
