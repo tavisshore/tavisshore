@@ -42,3 +42,5 @@
 [![Conference](http://img.shields.io/badge/IROS-2024-4b44ce.svg)](https://ieeexplore.ieee.org/abstract/document/10802566)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/bevcv/)
 [![GitHub](https://img.shields.io/badge/GitHub-BEV--CV-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/BEV-CV)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=midnight_purple" />
