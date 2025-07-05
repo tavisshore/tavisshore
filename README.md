@@ -21,6 +21,12 @@
 
 ## PhD Papers To Date 
 
+### 🤖 [VICI: VLM-Instructed Cross-view Image-localisation ](https://github.com/tavisshore/PEnG)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Conference](http://img.shields.io/badge/Pending-2025-4b44ce.svg)]()
+[![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/vici/)
+[![GitHub](https://img.shields.io/badge/GitHub-VICI-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/vici)
+
 ### 🕺 [PEnG: Pose-Enhanced Geo-Localisation ](https://github.com/tavisshore/PEnG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Conference](http://img.shields.io/badge/RA--L-2025-4b44ce.svg)]()
