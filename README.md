@@ -24,6 +24,7 @@
 ### 🤖 [VICI: VLM-Instructed Cross-view Image-localisation ](https://github.com/tavisshore/PEnG)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Conference](http://img.shields.io/badge/Pending-2025-4b44ce.svg)]()
+[![arxiv](https://img.shields.io/badge/cs.LG-pend.ing-b31b1b?style=flat&logo=arxiv&logoColor=red)]()
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/vici/)
 [![GitHub](https://img.shields.io/badge/GitHub-VICI-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/vici)
 
