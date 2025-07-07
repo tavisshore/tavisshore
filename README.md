@@ -48,7 +48,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-BEV--CV-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/BEV-CV)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="49%" align="middle"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="48%" align="middle"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="51%" align="middle"/> 
 </p>
 
