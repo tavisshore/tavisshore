@@ -47,13 +47,10 @@
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/bevcv/)
 [![GitHub](https://img.shields.io/badge/GitHub-BEV--CV-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/BEV-CV)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=midnight_purple" />
-
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" width="49%" align="middle"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="49%" align="middle"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" width="45%" align="middle"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="53%" align="middle"/> 
 </p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=midnight_purple" />
 
-
-![tavisshore's Stats]() ![tavisshore's Streak]() ![tavisshore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
