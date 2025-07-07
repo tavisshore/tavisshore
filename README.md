@@ -49,6 +49,4 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=midnight_purple" />
 
-![tavisshore's Stats](https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![tavisshore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true)
-![tavisshore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![tavisshore's Stats](https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![tavisshore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true) ![tavisshore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
