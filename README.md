@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![ROS](https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=00599C&logo=Docker&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)
