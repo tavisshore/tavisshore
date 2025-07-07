@@ -49,7 +49,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="48%" align="middle"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="51%" align="middle"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="50.5%" align="middle"/> 
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=github_dark" />
