@@ -50,7 +50,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=midnight_purple" />
 
 <p float="left">
-  <img src="[/img1.png](https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" width="49%" align="middle"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" width="49%" align="middle"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="49%" align="middle"/> 
 </p>
 
