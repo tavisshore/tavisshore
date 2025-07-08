@@ -18,11 +18,10 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
 ## PhD Papers To Date 
-
 ### 🤖 [VICI: VLM-Instructed Cross-view Image-localisation ](https://github.com/tavisshore/VICI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Conference](http://img.shields.io/badge/Under--Review-2025-4b44ce.svg)]()
-[![arxiv](https://img.shields.io/badge/cs.LG-pend.ing-b31b1b?style=flat&logo=arxiv&logoColor=red)]()
+[![Conference](http://img.shields.io/badge/Under--Review-2025-4b44ce.svg)](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)
+[![arxiv](https://img.shields.io/badge/cs.LG-2507.04107-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.04107)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/vici/)
 [![GitHub](https://img.shields.io/badge/GitHub-VICI-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/vici)
 
