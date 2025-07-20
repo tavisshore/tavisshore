@@ -20,7 +20,7 @@
 ## PhD Papers To Date 
 ### 🤖 [VICI: VLM-Instructed Cross-view Image-localisation ](https://github.com/tavisshore/VICI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Conference](http://img.shields.io/badge/ACM_MM--UAVM-2025-4b44ce.svg)](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)
+[![Conference](http://img.shields.io/badge/ACMMM--UAVM-2025-4b44ce.svg)](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)
 [![arxiv](https://img.shields.io/badge/cs.LG-2507.04107-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2507.04107)
 [![GitHub](https://img.shields.io/badge/GitHub-VICI-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/vici)
 
