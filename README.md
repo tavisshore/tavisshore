@@ -17,7 +17,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
-## PhD Papers To Date 
+## Latest Papers
 ### 🤖 [VICI: VLM-Instructed Cross-view Image-localisation ](https://github.com/tavisshore/VICI)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Conference](http://img.shields.io/badge/ACMMM--UAVM-2025-4b44ce.svg)](https://www.zdzheng.xyz/ACMMM2025Workshop-UAV/)
@@ -36,11 +36,12 @@
 [![arxiv](https://img.shields.io/badge/cs.LG-2409.15514-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.15514)
 [![GitHub](https://img.shields.io/badge/GitHub-SpaGBOL-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/spagbol)
 
-### 🦜 [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://github.com/tavisshore/BEV-CV)
+<!--### 🦜 [BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation](https://github.com/tavisshore/BEV-CV)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Conference](http://img.shields.io/badge/IROS-2024-4b44ce.svg)](https://ieeexplore.ieee.org/abstract/document/10802566)
 [![arxiv](https://img.shields.io/badge/cs.LG-2312.15363-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2312.15363)
 [![GitHub](https://img.shields.io/badge/GitHub-BEV--CV-%23121011.svg?logo=github&logoColor=white)](https://github.com/tavisshore/BEV-CV)
+-->
 
 <p float="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="48%" align="middle"/>
