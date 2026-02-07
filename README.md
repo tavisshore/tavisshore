@@ -1,8 +1,8 @@
 
 
 
-### Hi there, I am Tavis Shore 👋 
- PhD researcher in AI with a strong focus on machine learning, computer vision, and robotics. I’m a Student at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> advised by <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a> and <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>. 
+### Hi there, I am Tavis Shore 👋
+PhD researcher in AI with a strong focus on machine learning, computer vision, and robotics, with a passion for building societally impactful startups that leverage AI and computer vision for public safety—such as intelligent monitoring systems that can detect early indicators of conflict and enable proactive intervention. I'm a Student at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> advised by <a href="https://personalpages.surrey.ac.uk/s.hadfield/biography.html">Simon Hadfield</a> and <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>.
  
 [![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=jHEABmkAAAAJ&view_op=list_works&sortby=pubdate)
