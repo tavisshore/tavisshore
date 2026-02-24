@@ -1,0 +1,30 @@
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          python3 - <<'EOF'
+          import requests, json
+
+          repos = requests.get(
+              "https://api.github.com/users/tavisshore/repos?per_page=100",
+              headers={"Authorization": "Bearer ${{ secrets.GITHUB_TOKEN }}"}
+          ).json()
+          
+          stars = sorted([r['stargazers_count'] for r in repos], reverse=True)
+          g = sum(s >= i+1 for i, s in enumerate(stars))
+          
+          requests.patch(
+              "https://api.github.com/gists/${{ secrets.GIST_ID }}",
+              headers={"Authorization": "Bearer ${{ secrets.PAT }}"},
+              json={"files": {"g-index.json": {"content": json.dumps({
+                  "schemaVersion": 1, "label": "g-index",
+                  "message": str(g), "color": "blue"
+              })}}}
+          )
+          EOF
