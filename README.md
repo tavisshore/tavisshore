@@ -6,7 +6,7 @@ PhD researcher in AI with a strong focus on machine learning, computer vision, a
  
 [![Personal Site](https://img.shields.io/badge/Personal-Site-red)](https://tavisshore.co.uk)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?hl=en&user=jHEABmkAAAAJ&view_op=list_works&sortby=pubdate)
-<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/tavisshore/1bace97c21e949851b27d88fd242a1f4/raw/g-index.json" alt="g-index"/>
+<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/tavisshore/66fc03a9eefa95baf6fd904d4721ba51/raw/g-index.json" alt="g-index"/>
 
 ### 🔥 Skills
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
