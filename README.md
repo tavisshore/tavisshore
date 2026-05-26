@@ -51,3 +51,5 @@ PhD researcher in AI with a strong focus on machine learning, computer vision, a
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=github_dark" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=tavisshore)
