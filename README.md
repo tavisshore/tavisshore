@@ -49,6 +49,6 @@ PhD researcher in AI with a strong focus on machine learning, computer vision, a
   <img src="https://github-readme-stats.vercel.app/api?username=tavisshore&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" width="48%" align="middle"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavisshore&theme=vue-dark&hide_border=true" width="50.8%" align="middle"/> 
 </p>
-<p align="center">
+<!-- <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tavisshore&theme=github_dark" />
-</p>
+</p> -->
